@@ -2,7 +2,7 @@
 
 In Week 2, we focus on learning the core libraries needed for the project. All students will learn:
 
-Nibabel for loading and working with MRI scans
+Nibabel for loading and working with MRI scans (sample nifti files can be found on sites like OpenNeuro, Kaggle etc)
 
 Basic deep learning concepts (layers, models, training loops)
 
